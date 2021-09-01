@@ -32,6 +32,6 @@ export default {
   buildOptions: {
     baseUrl: './',
     metaUrlPath: 'snowpack',
-    out: 'doc',
+    out: 'docs',
   },
 };
